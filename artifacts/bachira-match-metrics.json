@@ -1,0 +1,62 @@
+[
+  {
+    "seed": 1,
+    "score": {
+      "blue": 1,
+      "red": 1
+    },
+    "contacts": {
+      "blue": 40,
+      "red": 36
+    },
+    "finished": true
+  },
+  {
+    "seed": 19,
+    "score": {
+      "blue": 2,
+      "red": 0
+    },
+    "contacts": {
+      "blue": 67,
+      "red": 37
+    },
+    "finished": true
+  },
+  {
+    "seed": 42,
+    "score": {
+      "blue": 1,
+      "red": 2
+    },
+    "contacts": {
+      "blue": 40,
+      "red": 34
+    },
+    "finished": true
+  },
+  {
+    "seed": 82,
+    "score": {
+      "blue": 1,
+      "red": 0
+    },
+    "contacts": {
+      "blue": 60,
+      "red": 43
+    },
+    "finished": true
+  },
+  {
+    "seed": 311,
+    "score": {
+      "blue": 0,
+      "red": 3
+    },
+    "contacts": {
+      "blue": 42,
+      "red": 42
+    },
+    "finished": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "seed": 1,
+    "score": {
+      "blue": 0,
+      "red": 2
+    },
+    "saves": {
+      "blue": 2,
+      "red": 0
+    },
+    "finished": true
+  },
+  {
+    "seed": 19,
+    "score": {
+      "blue": 0,
+      "red": 4
+    },
+    "saves": {
+      "blue": 0,
+      "red": 0
+    },
+    "finished": true
+  },
+  {
+    "seed": 42,
+    "score": {
+      "blue": 1,
+      "red": 2
+    },
+    "saves": {
+      "blue": 0,
+      "red": 0
+    },
+    "finished": true
+  },
+  {
+    "seed": 82,
+    "score": {
+      "blue": 0,
+      "red": 1
+    },
+    "saves": {
+      "blue": 2,
+      "red": 1
+    },
+    "finished": true
+  },
+  {
+    "seed": 311,
+    "score": {
+      "blue": 0,
+      "red": 1
+    },
+    "saves": {
+      "blue": 0,
+      "red": 1
+    },
+    "finished": true
+  }
+]

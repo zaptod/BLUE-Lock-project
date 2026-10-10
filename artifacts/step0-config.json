@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "seed": 42,
+  "mechanics": {
+    "width": 32,
+    "height": 20,
+    "goalWidth": 5,
+    "goalHeight": 2.4,
+    "duration": 120,
+    "speed": 5,
+    "acceleration": 14,
+    "shotSpeed": 14,
+    "friction": 1.5,
+    "gravity": 9.81,
+    "controlRadius": 0.9,
+    "tackleRadius": 1.15,
+    "tackleCooldown": 1.2
+  },
+  "sensors": {
+    "blue": {
+      "ballPosition": true,
+      "ballVelocity": true,
+      "ballHeight": true,
+      "opponentPosition": true,
+      "opponentVelocity": true,
+      "opponentPossession": true,
+      "opponentBody": true,
+      "goals": true,
+      "score": true,
+      "clock": true,
+      "range": 40,
+      "fov": 360,
+      "hz": 10,
+      "precision": 0
+    },
+    "red": {
+      "ballPosition": true,
+      "ballVelocity": true,
+      "ballHeight": true,
+      "opponentPosition": true,
+      "opponentVelocity": true,
+      "opponentPossession": true,
+      "opponentBody": true,
+      "goals": true,
+      "score": true,
+      "clock": true,
+      "range": 40,
+      "fov": 360,
+      "hz": 10,
+      "precision": 0
+    }
+  },
+  "humans": {
+    "blue": {
+      "enabled": {
+        "walk": true,
+        "run": true,
+        "sprint": true,
+        "turn": true,
+        "jump": false,
+        "control": true,
+        "dribble": true,
+        "shield": true,
+        "kick": true,
+        "loft": true,
+        "header": true,
+        "tackle": true
+      },
+      "sprintMultiplier": 1.8,
+      "jumpHeight": 0.8,
+      "recovery": 10,
+      "sprintDrain": 18,
+      "kickPower": 1,
+      "accuracy": 0.96,
+      "turnSpeed": 240
+    },
+    "red": {
+      "enabled": {
+        "walk": true,
+        "run": true,
+        "sprint": true,
+        "turn": true,
+        "jump": true,
+        "control": true,
+        "dribble": true,
+        "shield": true,
+        "kick": true,
+        "loft": true,
+        "header": true,
+        "tackle": true
+      },
+      "sprintMultiplier": 1.55,
+      "jumpHeight": 0.8,
+      "recovery": 10,
+      "sprintDrain": 18,
+      "kickPower": 1,
+      "accuracy": 0.96,
+      "turnSpeed": 240
+    }
+  }
+}

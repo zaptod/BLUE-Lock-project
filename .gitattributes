@@ -1,0 +1,2 @@
+# Bundled Three.js shader strings retain upstream formatting.
+artifacts/blue-lock-lab.html linguist-generated=true -whitespace

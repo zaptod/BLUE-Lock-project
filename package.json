@@ -1,0 +1,26 @@
+{
+  "name": "blue-lock-simulation-lab",
+  "version": "0.7.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "bundle": "npm run build && node scripts/bundle.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "vitest run",
+    "audit": "node scripts/audit-matches.mjs"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/three": "0.186.0",
+    "typescript": "5.9.3",
+    "vite": "8.3.4",
+    "vitest": "5.0.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

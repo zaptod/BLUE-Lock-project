@@ -1,0 +1,1820 @@
+{
+  "matches": 45,
+  "results": [
+    {
+      "variant": "default",
+      "seed": 1,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 50,
+        "red": 46
+      },
+      "attempts": 1660,
+      "accepted": 47,
+      "feints": 9,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 0
+    },
+    {
+      "variant": "default",
+      "seed": 19,
+      "score": {
+        "blue": 3,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 36,
+        "red": 22
+      },
+      "attempts": 1092,
+      "accepted": 37,
+      "feints": 4,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 0
+    },
+    {
+      "variant": "default",
+      "seed": 42,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 48,
+        "red": 47
+      },
+      "attempts": 1774,
+      "accepted": 49,
+      "feints": 6,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 0
+    },
+    {
+      "variant": "default",
+      "seed": 82,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 51,
+        "red": 48
+      },
+      "attempts": 1617,
+      "accepted": 54,
+      "feints": 8,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 0
+    },
+    {
+      "variant": "default",
+      "seed": 311,
+      "score": {
+        "blue": 2,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 65,
+        "red": 37
+      },
+      "attempts": 1790,
+      "accepted": 55,
+      "feints": 5,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 0
+    },
+    {
+      "variant": "goalkeepers",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 2,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 30,
+        "red": 41
+      },
+      "attempts": 1434,
+      "accepted": 45,
+      "feints": 1,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 4
+    },
+    {
+      "variant": "goalkeepers",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 4
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 11,
+        "red": 29
+      },
+      "attempts": 800,
+      "accepted": 31,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "goalkeepers",
+      "seed": 42,
+      "score": {
+        "blue": 1,
+        "red": 2
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 16,
+        "red": 36
+      },
+      "attempts": 1020,
+      "accepted": 42,
+      "feints": 1,
+      "techniques": [],
+      "failures": 3
+    },
+    {
+      "variant": "goalkeepers",
+      "seed": 82,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 2,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 25,
+        "red": 21
+      },
+      "attempts": 846,
+      "accepted": 47,
+      "feints": 0,
+      "techniques": [],
+      "failures": 4
+    },
+    {
+      "variant": "goalkeepers",
+      "seed": 311,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 48,
+        "red": 27
+      },
+      "attempts": 1482,
+      "accepted": 48,
+      "feints": 3,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 4
+    },
+    {
+      "variant": "all-modules",
+      "seed": 1,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 2
+      },
+      "contacts": {
+        "blue": 64,
+        "red": 32
+      },
+      "attempts": 1320,
+      "accepted": 67,
+      "feints": 9,
+      "techniques": [
+        "bachira-feint",
+        "bachira-elastico",
+        "bachira-roulette",
+        "bachira-scissors",
+        "bachira-trick",
+        "bachira-roulette-lift",
+        "bachira-aerial",
+        "bachira-monster-lift"
+      ],
+      "failures": 5
+    },
+    {
+      "variant": "all-modules",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 2
+      },
+      "contacts": {
+        "blue": 52,
+        "red": 38
+      },
+      "attempts": 1361,
+      "accepted": 53,
+      "feints": 10,
+      "techniques": [
+        "bachira-feint",
+        "bachira-elastico",
+        "bachira-scissors",
+        "bachira-roulette-lift",
+        "bachira-trick",
+        "bachira-roulette",
+        "bachira-monster-lift"
+      ],
+      "failures": 3
+    },
+    {
+      "variant": "all-modules",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 53,
+        "red": 44
+      },
+      "attempts": 1367,
+      "accepted": 60,
+      "feints": 12,
+      "techniques": [
+        "bachira-feint",
+        "bachira-elastico",
+        "bachira-scissors",
+        "bachira-roulette-lift",
+        "bachira-roulette",
+        "bachira-trick",
+        "bachira-monster-lift"
+      ],
+      "failures": 3
+    },
+    {
+      "variant": "all-modules",
+      "seed": 82,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 2,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 46,
+        "red": 38
+      },
+      "attempts": 1248,
+      "accepted": 52,
+      "feints": 7,
+      "techniques": [
+        "bachira-feint",
+        "bachira-elastico",
+        "bachira-trick",
+        "bachira-roulette-lift",
+        "bachira-roulette",
+        "bachira-scissors",
+        "bachira-monster-lift"
+      ],
+      "failures": 3
+    },
+    {
+      "variant": "all-modules",
+      "seed": 311,
+      "score": {
+        "blue": 2,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 51,
+        "red": 26
+      },
+      "attempts": 1002,
+      "accepted": 43,
+      "feints": 6,
+      "techniques": [
+        "bachira-feint",
+        "bachira-elastico",
+        "bachira-roulette",
+        "bachira-trick"
+      ],
+      "failures": 0
+    },
+    {
+      "variant": "swapped",
+      "seed": 1,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 5,
+        "red": 2
+      },
+      "contacts": {
+        "blue": 25,
+        "red": 47
+      },
+      "attempts": 1026,
+      "accepted": 48,
+      "feints": 4,
+      "techniques": [
+        "bachira-elastico",
+        "bachira-trick",
+        "bachira-feint",
+        "bachira-scissors",
+        "bachira-monster-lift"
+      ],
+      "failures": 4
+    },
+    {
+      "variant": "swapped",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 5,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 38,
+        "red": 57
+      },
+      "attempts": 1564,
+      "accepted": 57,
+      "feints": 7,
+      "techniques": [
+        "bachira-feint",
+        "bachira-trick",
+        "bachira-scissors",
+        "bachira-monster-lift"
+      ],
+      "failures": 5
+    },
+    {
+      "variant": "swapped",
+      "seed": 42,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 2,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 51,
+        "red": 44
+      },
+      "attempts": 1512,
+      "accepted": 65,
+      "feints": 6,
+      "techniques": [
+        "bachira-trick",
+        "bachira-feint",
+        "bachira-scissors",
+        "bachira-roulette",
+        "bachira-monster-lift"
+      ],
+      "failures": 4
+    },
+    {
+      "variant": "swapped",
+      "seed": 82,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 2,
+        "red": 2
+      },
+      "contacts": {
+        "blue": 36,
+        "red": 63
+      },
+      "attempts": 1410,
+      "accepted": 68,
+      "feints": 6,
+      "techniques": [
+        "bachira-feint",
+        "bachira-trick",
+        "bachira-roulette",
+        "bachira-roulette-lift",
+        "bachira-elastico",
+        "bachira-monster-lift",
+        "bachira-scissors"
+      ],
+      "failures": 5
+    },
+    {
+      "variant": "swapped",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 3,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 31,
+        "red": 50
+      },
+      "attempts": 1104,
+      "accepted": 59,
+      "feints": 4,
+      "techniques": [
+        "bachira-elastico",
+        "bachira-feint",
+        "bachira-roulette",
+        "bachira-scissors",
+        "bachira-roulette-lift",
+        "bachira-aerial"
+      ],
+      "failures": 3
+    },
+    {
+      "variant": "reference",
+      "seed": 1,
+      "score": {
+        "blue": 3,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 22,
+        "red": 17
+      },
+      "attempts": 854,
+      "accepted": 35,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "reference",
+      "seed": 19,
+      "score": {
+        "blue": 1,
+        "red": 3
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 14,
+        "red": 25
+      },
+      "attempts": 850,
+      "accepted": 34,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "reference",
+      "seed": 42,
+      "score": {
+        "blue": 2,
+        "red": 2
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 21,
+        "red": 18
+      },
+      "attempts": 856,
+      "accepted": 35,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "reference",
+      "seed": 82,
+      "score": {
+        "blue": 3,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 25,
+        "red": 14
+      },
+      "attempts": 852,
+      "accepted": 34,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "reference",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 4
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 9,
+        "red": 25
+      },
+      "attempts": 726,
+      "accepted": 30,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "slow-senses",
+      "seed": 1,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 24,
+        "red": 8
+      },
+      "attempts": 711,
+      "accepted": 16,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "slow-senses",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 2
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 2,
+        "red": 26
+      },
+      "attempts": 717,
+      "accepted": 16,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "slow-senses",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 2
+      },
+      "saves": {
+        "blue": 2,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 1,
+        "red": 22
+      },
+      "attempts": 661,
+      "accepted": 17,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "slow-senses",
+      "seed": 82,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 2,
+        "red": 19
+      },
+      "attempts": 495,
+      "accepted": 10,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "slow-senses",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 2
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 3,
+        "red": 25
+      },
+      "attempts": 720,
+      "accepted": 16,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "small-attention",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 52,
+        "red": 44
+      },
+      "attempts": 1960,
+      "accepted": 41,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "small-attention",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 2
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 60,
+        "red": 46
+      },
+      "attempts": 2100,
+      "accepted": 50,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "small-attention",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 80,
+        "red": 60
+      },
+      "attempts": 2824,
+      "accepted": 53,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "small-attention",
+      "seed": 82,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 81,
+        "red": 62
+      },
+      "attempts": 2806,
+      "accepted": 54,
+      "feints": 0,
+      "techniques": [],
+      "failures": 0
+    },
+    {
+      "variant": "small-attention",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 3,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 71,
+        "red": 40
+      },
+      "attempts": 2364,
+      "accepted": 43,
+      "feints": 0,
+      "techniques": [],
+      "failures": 1
+    },
+    {
+      "variant": "heavy-control",
+      "seed": 1,
+      "score": {
+        "blue": 1,
+        "red": 3
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 11,
+        "red": 11
+      },
+      "attempts": 672,
+      "accepted": 30,
+      "feints": 1,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 2
+    },
+    {
+      "variant": "heavy-control",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 3
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 10,
+        "red": 12
+      },
+      "attempts": 552,
+      "accepted": 28,
+      "feints": 0,
+      "techniques": [],
+      "failures": 2
+    },
+    {
+      "variant": "heavy-control",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 3
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 11,
+        "red": 12
+      },
+      "attempts": 534,
+      "accepted": 29,
+      "feints": 0,
+      "techniques": [],
+      "failures": 2
+    },
+    {
+      "variant": "heavy-control",
+      "seed": 82,
+      "score": {
+        "blue": 0,
+        "red": 3
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 15,
+        "red": 14
+      },
+      "attempts": 999,
+      "accepted": 36,
+      "feints": 3,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 1
+    },
+    {
+      "variant": "heavy-control",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 3
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 11,
+        "red": 12
+      },
+      "attempts": 540,
+      "accepted": 29,
+      "feints": 0,
+      "techniques": [],
+      "failures": 2
+    },
+    {
+      "variant": "fast-control",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 1,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 83,
+        "red": 121
+      },
+      "attempts": 2234,
+      "accepted": 62,
+      "feints": 1,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 1
+    },
+    {
+      "variant": "fast-control",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 92,
+        "red": 108
+      },
+      "attempts": 2033,
+      "accepted": 60,
+      "feints": 3,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 1
+    },
+    {
+      "variant": "fast-control",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "contacts": {
+        "blue": 67,
+        "red": 116
+      },
+      "attempts": 1936,
+      "accepted": 50,
+      "feints": 2,
+      "techniques": [],
+      "failures": 1
+    },
+    {
+      "variant": "fast-control",
+      "seed": 82,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 141,
+        "red": 104
+      },
+      "attempts": 2470,
+      "accepted": 71,
+      "feints": 3,
+      "techniques": [
+        "bachira-feint"
+      ],
+      "failures": 4
+    },
+    {
+      "variant": "fast-control",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "contacts": {
+        "blue": 106,
+        "red": 122
+      },
+      "attempts": 2430,
+      "accepted": 64,
+      "feints": 2,
+      "techniques": [],
+      "failures": 3
+    }
+  ],
+  "duels": [
+    {
+      "team": "blue",
+      "riskTolerance": 0.1,
+      "actions": [
+        "bachira-feint",
+        "bachira-monster-lift",
+        "control",
+        "kick"
+      ],
+      "activeTicks": 95,
+      "score": {
+        "blue": 2,
+        "red": 0
+      }
+    },
+    {
+      "team": "blue",
+      "riskTolerance": 0.4,
+      "actions": [
+        "bachira-feint",
+        "bachira-monster-lift",
+        "header",
+        "control",
+        "kick"
+      ],
+      "activeTicks": 80,
+      "score": {
+        "blue": 2,
+        "red": 0
+      }
+    },
+    {
+      "team": "blue",
+      "riskTolerance": 0.8,
+      "actions": [
+        "bachira-feint",
+        "bachira-monster-lift",
+        "header",
+        "control",
+        "kick"
+      ],
+      "activeTicks": 80,
+      "score": {
+        "blue": 2,
+        "red": 0
+      }
+    },
+    {
+      "team": "red",
+      "riskTolerance": 0.1,
+      "actions": [
+        "bachira-feint",
+        "bachira-monster-lift",
+        "control",
+        "kick"
+      ],
+      "activeTicks": 78,
+      "score": {
+        "blue": 0,
+        "red": 1
+      }
+    },
+    {
+      "team": "red",
+      "riskTolerance": 0.4,
+      "actions": [
+        "bachira-feint",
+        "bachira-monster-lift",
+        "header",
+        "control"
+      ],
+      "activeTicks": 57,
+      "score": {
+        "blue": 1,
+        "red": 1
+      }
+    },
+    {
+      "team": "red",
+      "riskTolerance": 0.8,
+      "actions": [
+        "bachira-feint",
+        "bachira-monster-lift",
+        "header",
+        "control"
+      ],
+      "activeTicks": 57,
+      "score": {
+        "blue": 1,
+        "red": 1
+      }
+    }
+  ],
+  "teamMatches": [
+    {
+      "teamSize": 2,
+      "variant": "standard",
+      "seed": 1,
+      "score": {
+        "blue": 3,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 67
+    },
+    {
+      "teamSize": 2,
+      "variant": "standard",
+      "seed": 19,
+      "score": {
+        "blue": 4,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 45
+    },
+    {
+      "teamSize": 2,
+      "variant": "standard",
+      "seed": 42,
+      "score": {
+        "blue": 2,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 2,
+      "receivedPasses": 1,
+      "interceptedPasses": 1,
+      "contacts": 88
+    },
+    {
+      "teamSize": 2,
+      "variant": "standard",
+      "seed": 82,
+      "score": {
+        "blue": 3,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 1,
+      "receivedPasses": 0,
+      "interceptedPasses": 1,
+      "contacts": 64
+    },
+    {
+      "teamSize": 2,
+      "variant": "standard",
+      "seed": 311,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 2,
+      "receivedPasses": 0,
+      "interceptedPasses": 2,
+      "contacts": 91
+    },
+    {
+      "teamSize": 2,
+      "variant": "goalkeepers",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 139
+    },
+    {
+      "teamSize": 2,
+      "variant": "goalkeepers",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 107
+    },
+    {
+      "teamSize": 2,
+      "variant": "goalkeepers",
+      "seed": 42,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "passes": 2,
+      "receivedPasses": 0,
+      "interceptedPasses": 2,
+      "contacts": 95
+    },
+    {
+      "teamSize": 2,
+      "variant": "goalkeepers",
+      "seed": 82,
+      "score": {
+        "blue": 2,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 104
+    },
+    {
+      "teamSize": 2,
+      "variant": "goalkeepers",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "passes": 1,
+      "receivedPasses": 0,
+      "interceptedPasses": 1,
+      "contacts": 135
+    },
+    {
+      "teamSize": 2,
+      "variant": "all-modules",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 2,
+        "red": 0
+      },
+      "passes": 2,
+      "receivedPasses": 1,
+      "interceptedPasses": 1,
+      "contacts": 83
+    },
+    {
+      "teamSize": 2,
+      "variant": "all-modules",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "passes": 2,
+      "receivedPasses": 2,
+      "interceptedPasses": 0,
+      "contacts": 96
+    },
+    {
+      "teamSize": 2,
+      "variant": "all-modules",
+      "seed": 42,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "passes": 3,
+      "receivedPasses": 0,
+      "interceptedPasses": 3,
+      "contacts": 109
+    },
+    {
+      "teamSize": 2,
+      "variant": "all-modules",
+      "seed": 82,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 3,
+        "red": 1
+      },
+      "passes": 1,
+      "receivedPasses": 0,
+      "interceptedPasses": 1,
+      "contacts": 58
+    },
+    {
+      "teamSize": 2,
+      "variant": "all-modules",
+      "seed": 311,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 2,
+        "red": 1
+      },
+      "passes": 2,
+      "receivedPasses": 1,
+      "interceptedPasses": 1,
+      "contacts": 96
+    },
+    {
+      "teamSize": 2,
+      "variant": "limited-attention",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 98
+    },
+    {
+      "teamSize": 2,
+      "variant": "limited-attention",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 2
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 129
+    },
+    {
+      "teamSize": 2,
+      "variant": "limited-attention",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 117
+    },
+    {
+      "teamSize": 2,
+      "variant": "limited-attention",
+      "seed": 82,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 4,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 125
+    },
+    {
+      "teamSize": 2,
+      "variant": "limited-attention",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 2,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 118
+    },
+    {
+      "teamSize": 3,
+      "variant": "standard",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 123
+    },
+    {
+      "teamSize": 3,
+      "variant": "standard",
+      "seed": 19,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 97
+    },
+    {
+      "teamSize": 3,
+      "variant": "standard",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 130
+    },
+    {
+      "teamSize": 3,
+      "variant": "standard",
+      "seed": 82,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 116
+    },
+    {
+      "teamSize": 3,
+      "variant": "standard",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 2,
+      "receivedPasses": 0,
+      "interceptedPasses": 2,
+      "contacts": 91
+    },
+    {
+      "teamSize": 3,
+      "variant": "goalkeepers",
+      "seed": 1,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 124
+    },
+    {
+      "teamSize": 3,
+      "variant": "goalkeepers",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 110
+    },
+    {
+      "teamSize": 3,
+      "variant": "goalkeepers",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 137
+    },
+    {
+      "teamSize": 3,
+      "variant": "goalkeepers",
+      "seed": 82,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 1
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 96
+    },
+    {
+      "teamSize": 3,
+      "variant": "goalkeepers",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 2
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 131
+    },
+    {
+      "teamSize": 3,
+      "variant": "all-modules",
+      "seed": 1,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 2
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 116
+    },
+    {
+      "teamSize": 3,
+      "variant": "all-modules",
+      "seed": 19,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 103
+    },
+    {
+      "teamSize": 3,
+      "variant": "all-modules",
+      "seed": 42,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 0,
+        "red": 4
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 101
+    },
+    {
+      "teamSize": 3,
+      "variant": "all-modules",
+      "seed": 82,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 2,
+      "receivedPasses": 0,
+      "interceptedPasses": 2,
+      "contacts": 102
+    },
+    {
+      "teamSize": 3,
+      "variant": "all-modules",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "passes": 1,
+      "receivedPasses": 1,
+      "interceptedPasses": 0,
+      "contacts": 131
+    },
+    {
+      "teamSize": 3,
+      "variant": "limited-attention",
+      "seed": 1,
+      "score": {
+        "blue": 1,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 100
+    },
+    {
+      "teamSize": 3,
+      "variant": "limited-attention",
+      "seed": 19,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 2,
+        "red": 10
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 74
+    },
+    {
+      "teamSize": 3,
+      "variant": "limited-attention",
+      "seed": 42,
+      "score": {
+        "blue": 1,
+        "red": 1
+      },
+      "saves": {
+        "blue": 7,
+        "red": 5
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 99
+    },
+    {
+      "teamSize": 3,
+      "variant": "limited-attention",
+      "seed": 82,
+      "score": {
+        "blue": 0,
+        "red": 0
+      },
+      "saves": {
+        "blue": 0,
+        "red": 6
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 118
+    },
+    {
+      "teamSize": 3,
+      "variant": "limited-attention",
+      "seed": 311,
+      "score": {
+        "blue": 0,
+        "red": 1
+      },
+      "saves": {
+        "blue": 1,
+        "red": 0
+      },
+      "passes": 0,
+      "receivedPasses": 0,
+      "interceptedPasses": 0,
+      "contacts": 125
+    }
+  ]
+}
